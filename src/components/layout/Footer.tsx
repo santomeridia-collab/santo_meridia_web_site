@@ -148,7 +148,15 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-border pt-6 text-center">
           <p className="text-sm text-muted-foreground mb-2">
-            © 2025 Santomeridia Research Labs Pvt. Ltd. | CIN: [XXXX]
+            © 2025 Santomeridia Research Labs Pvt. Ltd.|CIN: [XXXX]| An initiative of Santomeridia Global
+            A Collective Identity of Santomeridia India (under registration) & Santomeridia UK (in progress)
+            Head Office: Kerala, India | International Liaison: London, United Kingdom
+            ✉ infohub@santomeridia.com | 🌐 www.santomeridia.com |
+            India Enquiries: in.infohub@santomeridia.com
+            UK Enquiries: uk.infohub@santomeridia.com
+            
+
+
           </p>
           <p className="text-sm text-muted-foreground flex items-center justify-center gap-2 flex-wrap">
             <span>📍 Kerala, India</span>

@@ -148,12 +148,12 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-border pt-6 text-center">
           <p className="text-sm text-muted-foreground mb-2">
-            © 2025 Santomeridia Research Labs Pvt. Ltd.|CIN: [XXXX]| An initiative of Santomeridia Global
-            A Collective Identity of Santomeridia India (under registration) & Santomeridia UK (in progress)
-            Head Office: Kerala, India | International Liaison: London, United Kingdom
-            ✉ infohub@santomeridia.com | 🌐 www.santomeridia.com |
-            India Enquiries: in.infohub@santomeridia.com
-            UK Enquiries: uk.infohub@santomeridia.com
+            © 2025 Santomeridia Research Labs Pvt. Ltd.|CIN: [XXXX]|  An initiative of Santomeridia Global
+           <br /> A Collective Identity of Santomeridia India (under registration) & Santomeridia UK (in progress)
+            <br /> Head Office: Kerala, India | International Liaison: London, United Kingdom
+            <br /> ✉ infohub@santomeridia.com | 🌐 www.santomeridia.com |
+            <br /> India Enquiries: in.infohub@santomeridia.com
+            <br /> UK Enquiries: uk.infohub@santomeridia.com
             
 
 
